@@ -1,0 +1,2 @@
+xyqsky.xyz
+# CNAME
